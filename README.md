@@ -1,4 +1,5 @@
-![Uploading ascii-art-text.png…]()
+<img width="742" height="170" alt="ascii-art-text" src="https://github.com/user-attachments/assets/bfe4ebe7-7bcd-4158-b38f-7c784271e3ee" />
+
 
                    Fuzziner es una herramienta de hacking para romper la logica y encontrar vulnerabilidades Zero-Day 
                    Fue creado co n fines de black hat Y  hecho por el grupo X
